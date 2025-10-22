@@ -1,0 +1,9 @@
+* 8b4ee47 (HEAD -> main, tag: v0.1.0, origin/main) docs: add release notes for v0.1.0
+* db2996f Update README.md Add signed off commit change
+* f12c617 fix: resolve merge conflict in README.md
+* 258acf7 Commit to resolve merging issue
+* 5a6a99a fix: update README title to Project B
+* 920cdc0 feat: add profile file
+* 910780b chore: add contributors list
+* b32562c fix: set README title to Project A
+* 84d758f docs: add project readme and gitignore
