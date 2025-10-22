@@ -1,3 +1,2 @@
-# Project A
-
+# Final Project
 
